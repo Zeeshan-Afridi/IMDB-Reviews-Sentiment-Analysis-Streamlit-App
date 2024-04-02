@@ -1,2 +1,5 @@
+
 nltk==3.7
 streamlit==1.30.0
+scikit-learn
+pickle
