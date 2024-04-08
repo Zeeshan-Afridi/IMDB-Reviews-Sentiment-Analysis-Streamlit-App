@@ -7,9 +7,9 @@ import pandas as pd
 import numpy as np 
 import sklearn
 
-# nltk.download("stopwords")
-# nltk.download("wordnet")
-# nltk.download("punkt")
+nltk.download("stopwords")
+nltk.download("wordnet")
+nltk.download("punkt")
 
 
 # preprocessing data, removing punctuation, tokenizing, lemmatization
