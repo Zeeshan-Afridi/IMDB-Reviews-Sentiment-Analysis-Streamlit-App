@@ -3,12 +3,9 @@ import pickle
 import string
 import nltk
 from nltk.corpus import stopwords
-from sklearn.feature_extraction.text import TfidfVectorizer
-from sklearn.linear_model import LogisticRegression
 import pandas as pd
 import numpy as np 
 import sklearn
-
 
 # nltk.download("stopwords")
 # nltk.download("wordnet")
